@@ -1,0 +1,5 @@
+<h1 class="titre" id="histoire">Histoire du jeu Quarto</h1>
+<p>Quarto est un jeu de société inventé en 1991 par l'ingénieur et designer suisse Blaise Muller. Le jeu a été publié par la société suisse SwissGames et a rapidement acquis une grande popularité grâce à sa simplicité et à la profondeur stratégique qu'il offre.</p>
+<p>Le nom "Quarto" provient du mot latin "quartus", qui signifie "quatrième". Le jeu se joue sur un plateau de 4x4 cases, et l'objectif est de former une ligne de quatre pièces qui partagent au moins un critère commun parmi les quatre suivants : taille, forme, couleur ou solidité.</p>
+<p>Quarto est connu pour sa mécanique simple mais stratégique. Chaque joueur, à son tour, doit sélectionner une pièce pour son adversaire, ce qui donne une dynamique intéressante et imprévisible. Le jeu peut être joué à 2 joueurs, et il est apprécié pour ses parties relativement courtes mais tactiques.</p>
+<p>Avec son design épuré et ses règles intuitives, Quarto a remporté plusieurs prix de design et est aujourd'hui considéré comme l'un des classiques modernes des jeux de société.</p>

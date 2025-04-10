@@ -1,0 +1,26 @@
+<h1 class="titre" id="regles">Règles du jeu Quarto</h1>
+<h2>But du jeu</h2>
+<p>L'objectif du jeu Quarto est de former une ligne de quatre pièces qui partagent au moins un critère commun parmi les quatre suivants :</p>
+<ul id="caracteristiques">
+    <li>La hauteur : grande ou petite</li>
+    <li>La forme : carrée ou ronde</li>
+    <li>La couleur : claire ou foncée</li>
+    <li>Le remplissage : plein ou creux</li>
+</ul>
+<h2>Préparation du jeu</h2>
+<ul>
+    <li>Le jeu se joue sur un plateau de 4x4 cases.</li>
+    <li>Les 16 pièces du jeu sont disposées à côté du plateau. Chaque pièce possède une combinaison unique de ces quatre caractéristiques.</li>
+    <li>Les joueurs choisissent qui commence.</li>
+</ul>
+<h2>Déroulement d'une partie</h2>
+<ol>
+    <li>À son tour, un joueur doit choisir une pièce de la réserve et la donner à son adversaire.</li>
+    <li>L'adversaire doit alors placer cette pièce sur le plateau, dans une case vide.</li>
+    <li>Le jeu continue ainsi jusqu'à ce qu'un joueur réussisse à aligner quatre pièces qui partagent un critère commun parmi les quatre caractéristiques (hauteur, forme, couleur, remplissage).</li>
+</ol>
+<h2>Fin de la partie</h2>
+<p>La partie prend fin immédiatement lorsqu'un joueur forme une ligne de quatre pièces qui partagent un critère commun. Ce joueur est alors déclaré vainqueur.</p>
+<h2>Règles spéciales</h2>
+<p>Aucun joueur ne peut choisir une pièce pour lui-même. Il doit toujours choisir une pièce pour son adversaire.</p>
+<p>Le jeu nécessite de la stratégie et de la réflexion pour anticiper les mouvements de l'autre joueur tout en évitant de lui offrir des opportunités de gagner.</p>
